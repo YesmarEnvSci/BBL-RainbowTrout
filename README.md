@@ -1,4 +1,4 @@
 BBL
 ===
 
-Peterson Closed Population Mark-Recapture
+Chapman estimator for closed population mark-recapture
