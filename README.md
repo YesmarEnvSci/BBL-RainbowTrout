@@ -1,4 +1,4 @@
 BBL
 ===
 
-Peterson Cosed Population Mark-Recapture
+Peterson Closed Population Mark-Recapture
